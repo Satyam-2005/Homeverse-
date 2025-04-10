@@ -1,4 +1,6 @@
-
+Homeverse - Real estate website
+Homeverse is fully responsive Real estate website,
+Responsive for all devices, built using HTML, CSS, and JavaScript.
 
 ### Demo Screeshots
 
